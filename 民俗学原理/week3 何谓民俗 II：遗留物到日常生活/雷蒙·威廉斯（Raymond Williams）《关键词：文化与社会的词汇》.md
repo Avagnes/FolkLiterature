@@ -1,0 +1,1 @@
+Anthropology (人类学)、文化(Culture)、Folk (人民)、Popular (民众的)、社会学(sociology)、传统(tradition)、西方的（western）
