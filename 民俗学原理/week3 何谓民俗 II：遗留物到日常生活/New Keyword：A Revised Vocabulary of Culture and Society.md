@@ -1,10 +1,10 @@
 115-117 “Everyday”词条
 
-“everyday”（日常）是一个内涵随语境变化、具有多重边界属性且承载社会文化意涵的术语，其核心特征可从**隐含对比关系、边界术语属性、性别化内涵、二元对立的弱化、理论批判与积极价值传统**五个维度展开，具体内容如下：
+“everyday”（日常）是一个内涵随语境变化、具有多重边界属性且承载社会文化意涵的术语。
 
 ## 一、核心特征：依赖 “隐含对比” 定义，含义随语境变化
 
-“everyday” 的所有含义均建立在与某一 “非日常” 术语的隐含对比之上，不同语境下的对比对象不同，导致其意义存在差异，具体可分为四类典型情境：
+==“everyday” 的所有含义均建立在与某一 “非日常” 术语的隐含对比之上，不同语境下的对比对象不同，导致其意义存在差异==，具体可分为四类典型情境：
 
 1. **“日常发生” vs“不规律 / 意外”**
     
@@ -18,6 +18,7 @@
 4. **“平凡 / 常规”vs“非凡 / 显著”**
     
     这是当前 “everyday” 最主流的含义 —— 指代 “ mundane（平凡的）、unremarkable（不起眼的）、routine（常规的）”，对比对象是 “extraordinary（非凡的）、remarkable（显著的）”。此时 “非日常” 不仅是 “偏离日常规范”，更暗含 “对日常规范的挑战”，例如 “非凡事件” 不仅打破日常节奏，还可能动摇人们对 “日常秩序” 的认知。
+    【民俗学的“日常生活”或许更偏向这个？】
 
 ## 二、关键属性：作为 “边界术语”，划分社会维度
 
@@ -27,13 +28,17 @@
 
 1. **传统用法：精英借 “everyday” 与 “普通” 划清界限**
     
-    当 “everyday” 延伸为 “common（普通的）、commonplace（平庸的）、vulgar（粗俗的）” 时，隐含 “社会地位低下” 的意味，成为知识精英或社会上层与 “普通民众” 保持距离的工具。文档中列举了三个典型案例：
+    当 “everyday” 延伸为 “common（普通的）、commonplace（平庸的）、vulgar（粗俗的）” 时，隐含 “社会地位低下” 的意味，成为知识精英或社会上层与 “普通民众” 保持距离的工具。
+    
+    文档中列举了三个典型案例：
     - 柯勒律治（Coleridge, 1817）提到 “Persons of no every-day powers and acquirements”（不具备 “日常” 能力与学识的人），暗指 “普通民众” 能力平庸；
     - 1847 年某文学作品中，角色 “shrunk from the every-day people in the parlour of the public house”（在酒馆客厅里躲避 “日常民众”），体现对普通民众的疏离；
     - 1871 年某建议指出 “People who have a cook...ought not to dine like everyday folks”（有厨师的人不应像 “日常民众” 那样用餐），通过 “用餐方式” 的 “日常性” 划分阶层。
 2. **现代转向：民主用法重构 “everyday” 的阶层意涵**
     
-    随着社会观念的民主化，“everyday” 的阶层区隔功能被弱化，转而强调 “所有阶层共享日常生活节奏”。例如，费尔斯基（Felski, 1999-2000）指出：“Everyone, from the most famous to the most humble, eats, sleeps, yawns, defecates; no-one escapes the reach of the quotidian”（从最知名的人到最卑微的人，都要吃饭、睡觉、打哈欠、排便；无人能逃离日常），凸显 “日常” 的普遍性。同时，“everyday culture”（日常文化）常与 “popular culture”（大众文化）互换使用，并因其 “普通、习以为常” 的属性被重新评价为 “有价值、重要的文化形态”，打破了 “精英文化优于日常文化” 的传统认知。
+    随着社会观念的民主化，“everyday” 的阶层区隔功能被弱化，转而强调 “所有阶层共享日常生活节奏”。
+    
+    例如，费尔斯基（Felski, 1999-2000）指出：“Everyone, from the most famous to the most humble, eats, sleeps, yawns, defecates; no-one escapes the reach of the quotidian”（从最知名的人到最卑微的人，都要吃饭、睡觉、打哈欠、排便；无人能逃离日常），凸显 “日常” 的普遍性。同时，“everyday culture”（日常文化）常与 “popular culture”（大众文化）互换使用，并因其 “普通、习以为常” 的属性被重新评价为 “有价值、重要的文化形态”，打破了 “精英文化优于日常文化” 的传统认知。
 
 ### （二）划分 “公私领域”：承载性别化的时间属性
 
@@ -45,6 +50,7 @@
     - **公共领域（男性主导）：线性、前瞻性的日常时间**
         
         工作领域的 “日常时间” 虽具有 “重复性”（如每日固定上下班），但这种重复与 “现代性的线性时间”（进步、发展的时间观）绑定，具有 “前瞻性轨迹”。戴维森（Davison, 1993）将其比喻为：“the clock on the wall or in the waistcoat pocket is but the metronome for a soul already singing to the music of modernity”（墙上或马甲口袋里的时钟，不过是为早已随着现代性音乐歌唱的灵魂伴奏的节拍器），强调工作时间与 “现代性进步” 的关联，而男性是这一时间体系的主要参与者。
+        
     - **私人领域（女性主导）：循环、非现代的日常时间**
         
         家庭领域的 “日常时间”（尤其是女性的家庭时间）被定义为 “cyclical repetition（循环重复）”，这种时间被认为源于 “女性与生物节奏的紧密关联”（如生育、家务的周期性），或 “与前工业时代节奏的残留联系”。在这种认知中，女性的家庭时间被视为 “现代性的阻碍”（拖慢进步节奏），或 “现代性替代方案的残留”，凸显了性别化的时间不平等。
@@ -78,14 +84,14 @@
 20 世纪欧洲社会与美学理论的批判传统认为，“日常” 因 “习以为常” 而被忽视，但其内部蕴含 “超越世俗” 的潜力，可成为社会革新的源泉：
 
 1. 代表流派与目标：从达达主义、超现实主义到 1960 年代的国际情境主义，这些激进美学运动的目标是 “打破日常的习以为常性”，在平凡中寻找 “社会更新的源泉”，以突破技术官僚时代的 “单向度视野”（即打破僵化的日常秩序，推动社会变革）。
-2. 社会学延伸：列斐伏尔（Lefebvre, 1971）等社会学家延续这一思路，主张在 “日常看似无意义的方面”（如平凡的手势、身体未言说的欲望、微观的关怀与团结行为）中，寻找 “被压抑的、更本真的社会存在形态”—— 这种形态中，“超越性价值” 曾嵌入日常生活节奏，如今可通过挖掘日常重新激活。加德纳（Gardiner, 2000）将其总结为：“the apparently ordinary gestures of the everyday, the unspoken desires of the body and the microscopic expressions of care and solidarity, where the redemptive promise of everyday life continues to persist, in the interstices of more formalised social relations and organisational structures”（日常中看似平凡的手势、身体未言说的欲望、关怀与团结的微观表达，在更正式的社会关系与组织结构的间隙中，仍保留着日常生活的救赎潜力）。
+2. 社会学延伸：列斐伏尔（Lefebvre, 1971）等社会学家延续这一思路，==主张在 “日常看似无意义的方面”（如平凡的手势、身体未言说的欲望、微观的关怀与团结行为）中，寻找 “被压抑的、更本真的社会存在形态”—— 这种形态中，“超越性价值” 曾嵌入日常生活节奏，如今可通过挖掘日常重新激活==。加德纳（Gardiner, 2000）将其总结为：“the apparently ordinary gestures of the everyday, the unspoken desires of the body and the microscopic expressions of care and solidarity, where the redemptive promise of everyday life continues to persist, in the interstices of more formalised social relations and organisational structures”（日常中看似平凡的手势、身体未言说的欲望、关怀与团结的微观表达，在更正式的社会关系与组织结构的间隙中，仍保留着日常生活的救赎潜力）。
 
 ### （二）积极传统：“日常性” 是社会生活的 “赋能条件”
 
 与批判传统相对，另一理论传统将 “everydayness”（日常性）视为 “积极价值”，是社会生活得以稳定运行的 “赋能条件”：
 
-1. 核心观点：日常中 “可知、可预测的惯例”（如每日的电视新闻）能提供 “本体论安全”（ontological security，Silverstone, 1994）—— 即 “对世界可靠性的认知” 与 “对自身在世界中位置的确认”，这种安全感是人们在世界中采取行动的 “必要基础”。例如，固定的新闻时段、熟悉的节目形式，能让人们感知 “世界秩序的稳定”，减少不确定性焦虑。
-2. 分歧核心：两种传统的根本分歧在于 “习惯的社会作用”。批判传统认为 “习惯导致日常的僵化，需打破以寻求革新”；积极传统认为 “习惯构建了日常的稳定性，是社会秩序的基础”。布迪厄（Bourdieu, 2000）的观点点明了这一核心：争议的本质是 “习惯在社会生活中的角色”，以及习惯如何成为 “社会秩序铭刻在身体上的机制”（“the social order inscribes itself in bodies”）。
+1. 核心观点：==日常中 “可知、可预测的惯例”（如每日的电视新闻）能提供 “本体论安全”==（ontological security，Silverstone, 1994）—— 即 “对世界可靠性的认知” 与 “对自身在世界中位置的确认”，这种安全感是人们在世界中采取行动的 “必要基础”。例如，固定的新闻时段、熟悉的节目形式，能让人们感知 “世界秩序的稳定”，减少不确定性焦虑。
+2. 分歧核心：两种传统的根本分歧在于 “习惯的社会作用”。批判传统认为 “==习惯导致日常的僵化，需打破以寻求革新”==；积极传统认为 ==“习惯构建了日常的稳定性，是社会秩序的基础”==。布迪厄（Bourdieu, 2000）的观点点明了这一核心：争议的本质是 “习惯在社会生活中的角色”，以及习惯如何成为 “社会秩序铭刻在身体上的机制”（“the social order inscribes itself in bodies”）。
 
 ## 五、关联概念
 
