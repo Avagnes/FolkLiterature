@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c75ae8e8bb4d7fac",
+        "id": "08ad1f107c91dde9",
         "type": "tabs",
         "children": [
           {
-            "id": "f5ffb8713165d28f",
+            "id": "5e6a602250331569",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "民俗学原理/week3 何谓民俗 II：遗留物到日常生活/高丙中《民俗文化与民俗生活》.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "高丙中《民俗文化与民俗生活》"
             }
           }
         ]
@@ -166,7 +170,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f5ffb8713165d28f",
+  "active": "5e6a602250331569",
   "lastOpenFiles": [
     "饮食民俗学/课堂笔记.md",
     "饮食民俗学/读书笔记 Folk Cookery-Don·Yoder.md",
