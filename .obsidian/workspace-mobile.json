@@ -4,53 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "3c5682b487322476",
+        "id": "da925e2a721e09e2",
         "type": "tabs",
         "children": [
           {
-            "id": "2be75a83e0a86a61",
+            "id": "217cff8ddccb8136",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "饮食民俗学/读书笔记 Folk Cookery-Don·Yoder.md",
+                "file": "跨文化学/reading 7/赵汀阳,弗朗索瓦·阿赫托戈,王惠民等.时间和历史的概念：一个实验性的跨文化对话.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "读书笔记 Folk Cookery-Don·Yoder"
-            }
-          },
-          {
-            "id": "1a71e6c92caebd2c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "饮食民俗学/week4 杜博思 厨房中有人.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "week4 杜博思 厨房中有人"
-            }
-          },
-          {
-            "id": "70cea37c3ea38684",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "民俗学原理/week5 社会与社区/吴文藻-现代社区、西方社区.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "吴文藻-现代社区、西方社区"
+              "title": "赵汀阳,弗朗索瓦·阿赫托戈,王惠民等.时间和历史的概念：一个实验性的跨文化对话"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -127,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "民俗学原理/week5 社会与社区/吴文藻-现代社区、西方社区.md",
+            "file": "跨文化学/reading 7/赵汀阳,弗朗索瓦·阿赫托戈,王惠民等.时间和历史的概念：一个实验性的跨文化对话.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -182,24 +153,28 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "70cea37c3ea38684",
+  "active": "217cff8ddccb8136",
   "lastOpenFiles": [
+    "跨文化学/reading 7/周宪.关于跨文化研究中的理解与解释.md",
+    "跨文化学/reading 7/王俊.从生活世界到跨文化对话.md",
+    "跨文化学/reading 7/周宪.日常生活的“美学化”——文化“视觉转向”的一种解读.md",
+    "民间文艺学/Oral Traditions and the Verbal Arts/02 Theoretical perspectives/2.4 Influential Methodologies and Theories.md",
+    "00 Templates/highlight-term.md",
+    "饮食民俗学/week4 杜博思 厨房中有人.md",
+    "饮食民俗学/读书笔记 Folk Cookery-Don·Yoder.md",
+    "民间文艺学/Oral Traditions and the Verbal Arts/02 Theoretical perspectives/2.2 CONTINUING METHODOLOGICAL TENSIONS.md",
     "民俗学原理/week5 社会与社区/雷德菲尔德-农民社会与文化.md",
-    "民俗学原理/week5 社会与社区/吴文藻-现代社区、西方社区.md",
     "民俗学原理/week5 社会与社区/共同体与社会.md",
+    "民俗学原理/week5 社会与社区/吴文藻-现代社区、西方社区.md",
     "未命名",
     "跨文化学/reading 6/阅读6-思考.md",
     "跨文化学/reading 6/跨文化的想象：文献、神话与历史 (王邦维）.md",
     "民俗学原理/week5 社会与社区",
-    "饮食民俗学/week4 杜博思 厨房中有人.md",
     "民间文艺学/朝戈金/口头文学之“集体性”与“个体性”发微_朝戈金.md",
     "饮食民俗学/灾难之肉与丰饶之牛：爱尔兰民间传说中的传统生态知识.md",
     "跨文化学/reading 5/程正民《跨文化研究与巴赫金诗学》.md",
-    "饮食民俗学/读书笔记 Folk Cookery-Don·Yoder.md",
     "饮食民俗学/课堂笔记.md",
     "民间文艺学/Oral Traditions and the Verbal Arts/02 Theoretical perspectives/2.3 Background to Studies of Oral Tradition and Verbal Art.md",
-    "民间文艺学/Oral Traditions and the Verbal Arts/02 Theoretical perspectives/2.4 Influential Methodologies and Theories.md",
-    "民间文艺学/Oral Traditions and the Verbal Arts/02 Theoretical perspectives/2.2 CONTINUING METHODOLOGICAL TENSIONS.md",
     "民间文艺学/Oral Traditions and the Verbal Arts/02 Theoretical perspectives/2.1 THE ROLE OF THEORY.md",
     "民间文艺学/Oral Traditions and the Verbal Arts/01 Introduction---scope and terminology/1.4 texts：aspecial case.md",
     "民俗学原理/week4 文化、表达与叙事/04相关讨论.md",
@@ -209,10 +184,6 @@
     "民俗学原理/week3 何谓民俗 II：遗留物到日常生活/阿兰·邓迪斯《“民”指什么人？》.md",
     "跨文化学/reading 5/程正民《跨文化对话论》.md",
     "跨文化学/reading 5/钟敬文《略谈巴赫金狂欢化思想》.md",
-    "民俗学原理/week4 文化、表达与叙事/The Philology of the Vernacular.md",
-    "民俗学原理/week4 文化、表达与叙事/Dell Hymes 《Folklore's Nature and the sun's myth》.md",
-    "民俗学原理/week4 文化、表达与叙事/Disciplining Folkloristics.md",
-    "民俗学原理/week4 文化、表达与叙事/Susan Stewart  《On Longing》.md",
     "民俗学原理/week4 文化、表达与叙事",
     "跨文化学/reading 5",
     "民俗学原理/week 4",
