@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "跨文化/reading 8/笔记.md",
+                "file": "民俗学原理/论文/论文参考资料.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "笔记"
+              "title": "论文参考资料"
+            }
+          },
+          {
+            "id": "5944b2421b89e402",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "民俗学原理/论文/论文提纲.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "论文提纲"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +113,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "跨文化/reading 8/笔记.md",
+            "file": "民俗学原理/论文/论文提纲.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -153,10 +168,30 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "217cff8ddccb8136",
+  "active": "5944b2421b89e402",
   "lastOpenFiles": [
+    "民俗学原理/论文/论文参考资料.md",
+    "民俗学原理/论文/论文提纲.md",
+    "民间文艺学/Oral Traditions and the Verbal Arts/07 Genres and boundaries/相关笔记.md",
+    "民俗学原理/论文",
+    "民间文艺学/Oral Traditions and the Verbal Arts/07 Genres and boundaries/7.4 SOME COMMON GENRE TERMS AND CONTROVERSIES.md",
+    "民间文艺学/Oral Traditions and the Verbal Arts/07 Genres and boundaries/7.5 CROSS-CUTTING THEMES.md",
+    "民间文艺学/Oral Traditions and the Verbal Arts/07 Genres and boundaries/7.3 DIFFERENTIATING AND STUDYING GENRES.md",
+    "民间文艺学/Oral Traditions and the Verbal Arts/07 Genres and boundaries/7.2 SOME CRUCIAL BOUNDARIES  OR ARE THEY.md",
+    "民间文艺学/Oral Traditions and the Verbal Arts/07 Genres and boundaries/7.1 APPROACHES TO CLASSIFICATION.md",
+    "民间文艺学/Oral Traditions and the Verbal Arts/07 Genres and boundaries/7.0 Genres and boundaries（文类的区隔与划分）.md",
+    "民俗学原理/week9  起源与分类/安德鲁兰 custom and myth.md",
+    "民间文艺学/Oral Traditions and the Verbal Arts/02 Theoretical perspectives/2.4 Influential Methodologies and Theories.md",
+    "民俗学原理/week9  起源与分类/顾颉刚论文集-孟姜女故事研究.md",
+    "民俗学原理/week9  起源与分类",
+    "民间文艺学/Oral Traditions and the Verbal Arts/00 Oral Traditions and the VerbalArts. A Guide to Research Practices (ASA Research Methods in SocialAnthropology).pdf",
     "跨文化/reading 8/reading 8 跨文化中国农学.md",
+    "民间文艺学/Oral Traditions and the Verbal Arts/07 Genres and boundaries/7.6 FINAL POINTS.md",
+    "民间文艺学/Oral Traditions and the Verbal Arts/07 Genres and boundaries",
+    "民俗学原理/Week7/《野性的思维》列维 - 斯特劳斯.md",
+    "民俗学原理/Week7/神话、仪式与口述-古迪.md",
     "跨文化/reading 8/笔记.md",
+    "民俗学原理/Week7",
     "饮食民俗学/星巴克 How the local competition defeated a global brand---The case of Starbucks.md",
     "跨文化/reading 8",
     "饮食民俗学/课堂笔记.md",
@@ -168,29 +203,9 @@
     "跨文化/reading 7/周宪.关于跨文化研究中的理解与解释.md",
     "跨文化/reading 7/赵汀阳,弗朗索瓦·阿赫托戈,王惠民等.时间和历史的概念：一个实验性的跨文化对话.md",
     "跨文化/reading 7/王俊.从生活世界到跨文化对话.md",
-    "跨文化/reading 6/董晓萍-跨文化民间文艺学.md",
-    "跨文化/reading 6/跨文化的想象：文献、神话与历史 (王邦维）.md",
-    "跨文化/reading 6/阅读6-思考.md",
-    "跨文化/reading 1/金丝燕.跨文化学的时代背景.md",
-    "跨文化/reading 1/中西跨文化研究五十年-乐黛云.md",
-    "跨文化/reading 1/朱谕.文化相对性建构.md",
-    "跨文化/reading 1/《跨文化方法论初探》乐黛云.md",
-    "跨文化/reading 4/何平 跨文化研究的理论和方法.md",
-    "跨文化/reading 4/跨文化研究方法的回顾及展望（梁觉、周帆）.md",
-    "跨文化/reading 4/周宪：跨文化研究：方法论与观念.md",
-    "跨文化/reading 4/总结.md",
-    "跨文化/reading 2/周宪.跨文化研究如何“跨”.md",
-    "跨文化/reading 2/王一川.跨文化学的要素..md",
-    "跨文化/reading 2/米歇尔·西班牙 文化转场与人文科学史.md",
-    "跨文化/reading 2/巴得胜.跨文化主义的范式演变..md",
     "跨文化/reading 7",
     "跨文化/reading 6",
     "跨文化/reading 1",
-    "跨文化/reading 4",
-    "跨文化/reading 2",
-    "跨文化/reading 5",
-    "跨文化",
-    "民俗学原理/week 6",
     "民俗的形式.png",
     "墨菲oral literature.png",
     "Pasted image 20250929123827.png"
