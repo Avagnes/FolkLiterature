@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "da925e2a721e09e2",
+        "id": "fc7f30a1cc57341e",
         "type": "tabs",
         "children": [
           {
-            "id": "217cff8ddccb8136",
+            "id": "00d5daffdb555b0d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "民俗学原理/论文/论文参考资料.md",
+                "file": "饮食民俗学/课堂笔记.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "论文参考资料"
-            }
-          },
-          {
-            "id": "5944b2421b89e402",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "民俗学原理/论文/论文提纲.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "论文提纲"
+              "title": "课堂笔记"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "民俗学原理/论文/论文提纲.md",
+            "file": "饮食民俗学/课堂笔记.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -168,8 +153,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5944b2421b89e402",
+  "active": "00d5daffdb555b0d",
   "lastOpenFiles": [
+    "跨文化/reading 9/2 杜维明 儒家伦理与文明对话.md",
+    "饮食民俗学/武夷茶.md",
+    "跨文化/reading 9/3 杜维明 乐黛云 是多元现代性还是现代性的多元发展.md",
+    "跨文化/reading 9/1 汤一介 当前中西文化交流与会通的一种可能趋势.md",
+    "饮食民俗学/课堂笔记.md",
+    "饮食民俗学/星巴克 How the local competition defeated a global brand---The case of Starbucks.md",
     "民俗学原理/论文/论文参考资料.md",
     "民俗学原理/论文/论文提纲.md",
     "民间文艺学/Oral Traditions and the Verbal Arts/07 Genres and boundaries/相关笔记.md",
@@ -192,17 +183,11 @@
     "民俗学原理/Week7/神话、仪式与口述-古迪.md",
     "跨文化/reading 8/笔记.md",
     "民俗学原理/Week7",
-    "饮食民俗学/星巴克 How the local competition defeated a global brand---The case of Starbucks.md",
     "跨文化/reading 8",
-    "饮食民俗学/课堂笔记.md",
     "民间文艺学/民间文艺学笔记.md",
     "民俗学原理/week6/口承 一书写等式 一个现代心智的程式.md",
     "民俗学原理/week6/口头传统·书写文化·电子传媒.md",
     "民俗学原理/week6",
-    "跨文化/reading 7/周宪.日常生活的“美学化”——文化“视觉转向”的一种解读.md",
-    "跨文化/reading 7/周宪.关于跨文化研究中的理解与解释.md",
-    "跨文化/reading 7/赵汀阳,弗朗索瓦·阿赫托戈,王惠民等.时间和历史的概念：一个实验性的跨文化对话.md",
-    "跨文化/reading 7/王俊.从生活世界到跨文化对话.md",
     "跨文化/reading 7",
     "跨文化/reading 6",
     "跨文化/reading 1",
