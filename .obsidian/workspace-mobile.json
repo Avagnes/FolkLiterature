@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "饮食民俗学/课堂笔记.md",
+                "file": "民俗学原理/week9  起源与分类/译文：安德鲁兰 custom and myth.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "课堂笔记"
+              "title": "译文：安德鲁兰 custom and myth"
+            }
+          },
+          {
+            "id": "79b9d13e136a86ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "民俗学原理/week9  起源与分类/笔记：安德鲁·兰 民俗研究的方法.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "笔记：安德鲁·兰 民俗研究的方法"
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -98,7 +113,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "饮食民俗学/课堂笔记.md",
+            "file": "民俗学原理/week9  起源与分类/译文：安德鲁兰 custom and myth.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -155,11 +170,16 @@
   },
   "active": "00d5daffdb555b0d",
   "lastOpenFiles": [
+    "民俗学原理/week9  起源与分类/笔记：安德鲁·兰 民俗研究的方法.md",
+    "民俗学原理/week9  起源与分类/译文：安德鲁兰 custom and myth.md",
+    "未命名.md",
+    "民俗学原理/week8/思考.md",
     "跨文化/reading 9/2 杜维明 儒家伦理与文明对话.md",
-    "饮食民俗学/武夷茶.md",
+    "民俗学原理/week8",
     "跨文化/reading 9/3 杜维明 乐黛云 是多元现代性还是现代性的多元发展.md",
     "跨文化/reading 9/1 汤一介 当前中西文化交流与会通的一种可能趋势.md",
     "饮食民俗学/课堂笔记.md",
+    "饮食民俗学/武夷茶.md",
     "饮食民俗学/星巴克 How the local competition defeated a global brand---The case of Starbucks.md",
     "民俗学原理/论文/论文参考资料.md",
     "民俗学原理/论文/论文提纲.md",
@@ -171,7 +191,6 @@
     "民间文艺学/Oral Traditions and the Verbal Arts/07 Genres and boundaries/7.2 SOME CRUCIAL BOUNDARIES  OR ARE THEY.md",
     "民间文艺学/Oral Traditions and the Verbal Arts/07 Genres and boundaries/7.1 APPROACHES TO CLASSIFICATION.md",
     "民间文艺学/Oral Traditions and the Verbal Arts/07 Genres and boundaries/7.0 Genres and boundaries（文类的区隔与划分）.md",
-    "民俗学原理/week9  起源与分类/安德鲁兰 custom and myth.md",
     "民间文艺学/Oral Traditions and the Verbal Arts/02 Theoretical perspectives/2.4 Influential Methodologies and Theories.md",
     "民俗学原理/week9  起源与分类/顾颉刚论文集-孟姜女故事研究.md",
     "民俗学原理/week9  起源与分类",
@@ -184,13 +203,9 @@
     "跨文化/reading 8/笔记.md",
     "民俗学原理/Week7",
     "跨文化/reading 8",
-    "民间文艺学/民间文艺学笔记.md",
-    "民俗学原理/week6/口承 一书写等式 一个现代心智的程式.md",
-    "民俗学原理/week6/口头传统·书写文化·电子传媒.md",
     "民俗学原理/week6",
     "跨文化/reading 7",
     "跨文化/reading 6",
-    "跨文化/reading 1",
     "民俗的形式.png",
     "墨菲oral literature.png",
     "Pasted image 20250929123827.png"
