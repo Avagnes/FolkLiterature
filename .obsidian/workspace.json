@@ -4,24 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "1b9593ec3170f931",
+        "id": "52b36edb17cd8e51",
         "type": "tabs",
         "children": [
           {
-            "id": "73884c3ccd65e684",
+            "id": "cc013f4da159916f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "民间文艺学/语言模型/理查德·鲍曼 作为表演的口头艺术.md",
+                "file": "民间文艺学/创编与传承人/文献阅读.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "理查德·鲍曼 作为表演的口头艺术"
+              "title": "文献阅读"
+            }
+          },
+          {
+            "id": "9957a0ef9f8ae209",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.12.4"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -142,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "跨文化学/reading 2/王一川.跨文化学的要素..md",
+                "file": "民俗学原理/week9  起源与分类/发言讲稿.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "王一川.跨文化学的要素. 的大纲"
+              "title": "发言讲稿 的大纲"
             }
           }
         ],
@@ -161,55 +174,57 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:新建数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "command-palette:打开命令面板": false,
-      "bases:创建新数据库": false,
       "templater-obsidian:Templater": false
     }
   },
-  "active": "73884c3ccd65e684",
+  "active": "9957a0ef9f8ae209",
   "lastOpenFiles": [
-    "民间文艺学/语言模型/Dell Hymes-Ways of speaking.md",
-    "民间文艺学/语言模型/理查德·鲍曼 作为表演的口头艺术.md",
-    "民间文艺学/语言模型/戴尔·海默斯 语言与社会环境的互动模式.md",
-    "跨文化/期中作业 研究方案.md",
-    "民间文艺学/语言模型",
-    "民俗学原理/week 10 结构、形态与功能/施爱东 故事法则.md",
+    "民间文艺学/从言语行为到交流民俗志 戴尔·海默斯的讲述模型.md",
+    "民间文艺学/创编与传承人/文献阅读.md",
+    "民间文艺学/创编与传承人",
+    "民间文艺学/民间文艺学笔记.md",
+    "民俗学原理/week9  起源与分类/发言讲稿.md",
     "饮食民俗学/期末作业.md",
-    "民俗学原理/week 10 结构、形态与功能/普罗普 故事形态学.md",
-    "民俗学原理/week 10 结构、形态与功能/列维斯特劳斯 神话的结构.md",
-    "民俗学原理/week 10 结构、形态与功能/马林诺夫斯基 神话在生活中的作用.md",
-    "跨文化/reading 11/思考.md",
-    "民俗学原理/week 10 结构、形态与功能",
+    "跨文化/期中作业 研究方案.md",
     "跨文化/reading 11/顾彬(Wolfgang Kubin)，方法与阅读——弗朗索瓦·于连与阐释中国哲学.md",
     "跨文化/reading 11/成中英，儒家诠释学：道德与本体.md",
+    "跨文化/reading 11/思考.md",
     "跨文化/reading 11/弗朗索瓦·于连(François Jullien)，论多元文化：语言的差异—思想的资源，或如何酝酿未来的对话.md",
-    "民间文艺学/Oral Traditions and the Verbal Arts/07 Genres and boundaries/7.4 SOME COMMON GENRE TERMS AND CONTROVERSIES.md",
     "跨文化/reading 11",
-    "民间文艺学/Oral Traditions and the Verbal Arts/07 Genres and boundaries/7.3 DIFFERENTIATING AND STUDYING GENRES.md",
-    "民间文艺学/Oral Traditions and the Verbal Arts/07 Genres and boundaries/相关笔记.md",
-    "民间文艺学/Oral Traditions and the Verbal Arts/07 Genres and boundaries/7.2 SOME CRUCIAL BOUNDARIES  OR ARE THEY.md",
-    "民间文艺学/Oral Traditions and the Verbal Arts/07 Genres and boundaries/7.5 CROSS-CUTTING THEMES.md",
-    "民间文艺学/Oral Traditions and the Verbal Arts/07 Genres and boundaries/7.6 FINAL POINTS.md",
-    "民俗学原理/week9  起源与分类/发言讲稿.md",
+    "民间文艺学/语言模型/理查德·鲍曼 作为表演的口头艺术.md",
+    "民间文艺学/语言模型/戴尔·海默斯 语言与社会环境的互动模式.md",
+    "民间文艺学/语言模型/Dell Hymes-Ways of speaking.md",
+    "民间文艺学/语言模型",
+    "民俗学原理/week 10 结构、形态与功能/马林诺夫斯基 神话在生活中的作用.md",
+    "民俗学原理/week 10 结构、形态与功能/普罗普 故事形态学.md",
+    "民俗学原理/week 10 结构、形态与功能/施爱东 故事法则.md",
+    "民俗学原理/week 10 结构、形态与功能/列维斯特劳斯 神话的结构.md",
+    "民俗学原理/week 10 结构、形态与功能",
+    "未命名 2.canvas",
+    "未命名 1.canvas",
+    "未命名.canvas",
+    "未命名.base",
+    "民俗学原理/week9  起源与分类/故事概念的转变与中国故事学的建立_施爱东.md",
+    "民俗学原理/week9  起源与分类/顾颉刚故事学范式回顾与检讨——以“孟姜女故事研究”为中心_施爱东.md",
     "民俗学原理/week9  起源与分类/顾颉刚论文集-孟姜女故事研究.md",
-    "民俗学原理/week9  起源与分类/译文：安德鲁兰 custom and myth.md",
-    "民俗学原理/week9  起源与分类/笔记：安德鲁·兰 民俗研究的方法.md",
     "民俗学原理/week9  起源与分类/孟姜女故事的稳定性与自由度_施爱东.md",
     "民俗学原理/week9  起源与分类/论顾颉刚研究孟姜女故事的科学方法_户晓辉.md",
+    "民俗学原理/week9  起源与分类/陈泳超 “历史演进”的传说学方法论.md",
+    "民俗学原理/week9  起源与分类/笔记：安德鲁·兰 民俗研究的方法.md",
     "民俗学原理/week9  起源与分类/“孟姜女故事研究”的生成与转向_顾颉刚的思路及困难_彭春凌.md",
+    "文学研究的理论与方法/文学与民间/张炼红： 细腻革命：民众生活世界与文化政治.md",
     "民俗学原理/week8",
     "跨文化/reading 9",
     "民俗学原理/论文",
     "民俗学原理/week9  起源与分类",
     "民间文艺学/Oral Traditions and the Verbal Arts/07 Genres and boundaries",
-    "民俗学原理/Week7",
-    "民俗学原理/week6",
     "Pasted image 20251030142040.png",
     "民俗的形式.png",
-    "墨菲oral literature.png",
-    "未命名.canvas"
+    "墨菲oral literature.png"
   ]
 }
